@@ -11,6 +11,7 @@ Title: Les trois villes: Paris
 Author: Émile Zola
 
 Release Date: November 26, 2010 [EBook #34451]
+[Last updated: August 25, 2017]
 
 Language: French
 
@@ -692,7 +693,7 @@ qu'il ne voulait plus du travail, puisque le travail, depuis si
 longtemps, n'avait plus voulu de lui.
 
 --Tout de même, tâche de rapporter quelque chose, car tu sais qu'il n'y
-a rien... A quelle heure rentreras-lu?
+a rien... A quelle heure rentreras-tu?
 
 D'un nouveau geste, il sembla répondre qu'il rentrerait quand il
 pourrait, jamais peut-être. Et, des larmes, malgré son effort
@@ -1322,7 +1323,7 @@ assez!
 --L'affaire des Chemins de fer africains, reprit le baron, mais elle est
 claire comme de l'eau de roche! Tous ceux que Sanier menace peuvent
 dormir bien tranquilles... Non, voyez-vous, c'est un coup pour jeter
-Barroux à bas de son ministère. Il y aura pour sur tantôt une demande
+Barroux à bas de son ministère. Il y aura pour sûr tantôt une demande
 d'interpellation, vous allez voir le beau tapage.
 
 --Cette presse de diffamation et de scandale, dit posément Amadieu, est
@@ -1557,7 +1558,7 @@ Il tâchait d'y mettre le plus de discrétion possible, épouvanté des mots
 qu'il disait, des choses qu'il racontait, dans ce milieu de grand luxe
 et de jouissance, devant ces heureux comblés des joies de ce monde; car
 il sentait bien qu'il détonnait d'une façon discourtoise. Quelle étrange
-idée d'être venu à l'heure où l'on finit de déjeuner, lorsque l'arome du
+idée d'être venu à l'heure où l'on finit de déjeuner, lorsque l'arôme du
 café brûlant caresse les digestions ravies! Pourtant, il continuait, il
 finissait même par élever la voix, cédant à la révolte qui le soulevait
 peu à peu, allant jusqu'au bout de son récit terrible, nommant Laveuve,
@@ -2340,7 +2341,7 @@ craignant à la longue la lassitude des électeurs, devant ce débordement
 continu d'ordures, avait ajourné l'interpellation à un mois. Seulement,
 quoique Vignon eût évité d'intervenir en prenant la parole, tout son
 groupe avait voté contre le ministère, si bien que la majorité obtenue
-par celui-ci n'était que le deux voix, une majorité dérisoire.
+par celui-ci n'était que de deux voix, une majorité dérisoire.
 
 --Mais alors, demanda une voix à Massot, ils vont donner leur démission.
 
@@ -2890,7 +2891,7 @@ jamais vous ne débuteriez à la Comédie.
 
 Elle ne dit qu'un mot, toute droite et rigide.
 
--Alors?
+--Alors?
 
 --Eh bien! alors, ma chère amie, que voulez-vous que je fasse?... On ne
 peut pourtant pas renverser un ministère pour que vous jouiez Pauline.
@@ -3011,7 +3012,7 @@ superbe cette fois, il dit sa belle et insolente confiance.
 été en péril, je pense! Ah! je suis bien tranquille, Sanier peut publier
 sa fameuse liste, dans le cas où cela l'amuserait. Si nous n'avons pas
 acheté depuis longtemps Sanier et sa liste, c'est que Barroux est un
-parlait honnête homme, et que, moi, je n'aime pas jeter mon argent par
+parfait honnête homme, et que, moi, je n'aime pas jeter mon argent par
 la fenêtre... Je vous répète que nous ne craignons rien.
 
 Puis, comme il reconnaissait enfin l'abbé Froment, resté dans l'ombre,
@@ -3388,7 +3389,7 @@ séduits par l'art de l'orateur, une diction adroite et chaude, des
 gestes amples de grand comédien.
 
 Pierre ne voulut pas troubler cette attention recueillie, ce silence
-frissonnant où sonnait seule la parole, du prêtre. Et il attendit pour
+frissonnant où sonnait seule la parole du prêtre. Et il attendit pour
 chercher l'abbé Rose, il se tint debout près d'un pilier. Un reste de
 jour, la lueur oblique et mourante d'une fenêtre éclairait justement le
 conférencier, grand et fort dans la blancheur de son surplis, à peine
@@ -4735,7 +4736,7 @@ même soupçonné. On semblait au contraire partir sur une piste fausse, un
 monsieur bien mis, ganté, qu'un voisin jurait avoir vu entrer dans
 l'hôtel, au moment de l'explosion. Et Guillaume semblait se calmer un
 peu, lorsque son frère lui lut un autre journal, où l'on donnait des
-renseignements sur l'engin qui avait dû être employé, une botte de
+renseignements sur l'engin qui avait dû être employé, une boîte de
 conserve, relativement très petite, dont on avait retrouvé les débris.
 De nouveau, il retomba à son anxiété, lorsqu'il sut qu'on s'étonnait
 qu'un si pauvre engin eût pu faire de si violents ravages, et qu'on
@@ -4781,7 +4782,7 @@ conservatrice. Est-ce que la science ne suffit pas? A quoi bon vouloir
 hâter les temps, lorsqu'un pas de la science avance plus l'humanité vers
 la cité de justice et de vérité, que cent ans de politique et de révolte
 sociale? Allez, elle seule balaye les dogmes, emporte les dieux, fait de
-la lumière et du bonheur... C'est moi, le membre de l'Institut, rente,
+la lumière et du bonheur... C'est moi, le membre de l'Institut, renté,
 décoré, qui suis le seul révolutionnaire.
 
 Il se mit à rire, et Guillaume sentit l'ironie bonne enfant de ce rire.
@@ -5969,7 +5970,7 @@ la charge. Avec cela, très prudent avec les filles. Et il a fallu cette
 bêtise d'un moment, cette Eugénie qui le servait, lorsqu'il entrait
 boire un verre en face... Naturellement que ce n'était pas pour
 l'épouser, bien qu'il lui ait porté des oranges, lorsqu'elle est allée
-accouchera l'hôpital. Une sale traînée, qui a déjà disparu avec un autre
+accoucher à l'hôpital. Une sale traînée, qui a déjà disparu avec un autre
 homme... Seulement, le bébé reste. Charles l'a pris pour lui, l'a envoyé
 en nourrice, et il paye les mois. Une vraie ruine, des frais qui n'en
 finissent plus. Enfin, tous les malheurs nous sont tombés à la fois sur
@@ -6376,7 +6377,7 @@ sens. Il indiqua même le terrain à fouiller, la marche à suivre.
 L'avenir, pour lui, était là sans doute. Et, dans une péroraison très
 large, très belle, il dit qu'on avait déshonoré jusqu'à présent les
 explosifs, en les employant à des œuvres imbéciles de vengeance et de
-désastre, taudis qu'il y avait peut-être en eux la force libératrice que
+désastre, tandis qu'il y avait peut-être en eux la force libératrice que
 la science cherchait, le levier qui soulèverait et changerait le monde,
 lorsqu'on les aurait domestiqués, réduits à n'être plus que les
 serviteurs obéissants de l'homme.
@@ -6732,7 +6733,7 @@ son rêve d'art, gagné sans doute lui aussi par des affinités secrètes de
 tendresse et de dévouement.
 
 --La couleur, certes, est une puissance, un charme souverain, et l'on
-peut dire que, sans elle, il n'y a pus d'évocation complète. Pourtant,
+peut dire que, sans elle, il n'y a pas d'évocation complète. Pourtant,
 c'est singulier, elle ne m'est pas indispensable. Il me semble que je
 puis, avec le noir et le blanc, recréer la vie aussi intense, aussi
 définitive; et je m'imagine même que je le ferai d'une façon plus
@@ -6859,7 +6860,7 @@ l'apercevait, plongeait par le large vitrage dans cet atelier où elle
 passait son existence de fille innocente. Et il s'était d'abord
 intéressé à elle, en la voyant toujours seule, presque abandonnée; puis,
 la connaissance faite, ravi de la trouver si simple, si charmante, il
-avait conçu passionnément le dessein de l'éveillera l'intelligence, à la
+avait conçu passionnément le dessein de l'éveiller à l'intelligence, à la
 vie, en l'aimant, en étant l'esprit, le cœur qui fécondent. Alors, ce
 que son frère n'avait pu être pour elle, il le fut, dans le besoin de
 plante frêle où elle était de soins délicats, de soleil et d'amour. Déjà
@@ -6928,7 +6929,7 @@ dont il apercevait le jardin, par-dessus le mur de la rue
 Saint-Eleuthère, il crut distinguer une fine silhouette, un visage
 blanc égayé de soleil, sous le casque de cheveux noirs, Marie sans
 doute, en train de surveiller les pousses de ses lilas. Mais la lumière
-diffuse et ait si dorée, à cette heure du soir, que la vision s'y noyait
+diffuse était si dorée, à cette heure du soir, que la vision s'y noyait
 et parut s'y perdre, dans une gloire. Et, les yeux éblouis, il tourna la
 tête, il ne vit plus, à l'autre bord du ciel, que la masse du
 Sacré-Cœur, crayeuse, écrasante, ainsi regardée de près, bouchant ce
@@ -7452,7 +7453,7 @@ assassins dont la violence sauvage me fait horreur. Hier, je t'ai laissé
 parler, tu rêvais un peuple si grand, si heureux, cette anarchie idéale,
 où chaque être serait libre dans la liberté de tous les êtres.
 Seulement, quelle abomination, quel soulèvement de la raison et du
-cœur, lorsque de la théorie en descend à la propagande, à la mise en
+cœur, lorsque de la théorie on descend à la propagande, à la mise en
 pratique! Si tu es le cerveau qui pense, quelle est donc l'exécrable
 main qui agit, pour qu'elle tue ainsi les enfants, qu'elle enfonce les
 portes et qu'elle vide les tiroirs? Est-ce que tu acceptes cette
@@ -7585,7 +7586,7 @@ réconciliation avec son frère, les conversations qu'il entendait chaque
 soir, ce drame terrible auquel il était mêlé, et ses réflexions sur le
 travail en lutte contre la misère, et l'espoir sourd que lui remettait
 au cœur la jeunesse intellectuelle de demain. Est-ce que, dans
-l'excès même de sa négation, ne s'indiquait pas le frisson d'une toi
+l'excès même de sa négation, ne s'indiquait pas le frisson d'une foi
 nouvelle?
 
 Guillaume dut le comprendre, en le sentant frémir d'une telle tendresse
@@ -8815,7 +8816,7 @@ divine force, jusqu'à la tombe, de nous être aimés si longtemps, sans
 une honte ni un regret... Et, si vous me touchiez, si je vous sentais
 trop près de moi, je ne pourrais finir, car je n'ai pas fini.
 
-Pais, lorsqu'il fut retombé dans son silence et son immobilité:
+Puis, lorsqu'il fut retombé dans son silence et son immobilité:
 
 --Demain, si je mourais, Gérard ne trouverait pas même ici la petite
 fortune qu'il croit encore entre mes mains. Souvent, le cher enfant m'a
@@ -15078,7 +15079,7 @@ Pierre venait rarement, gêné, différent lui aussi. Puis, les matins où
 il arrivait, Marie était comme transformée, la maison semblait s'animer
 d'une autre âme. Rien pourtant ne se passait entre eux qui ne fût
 innocent et fraternel. Ils ne paraissaient que bons camarades, sans même
-une effleurement des doigts, causant sans rougeur. C'était un
+un effleurement des doigts, causant sans rougeur. C'était un
 rayonnement, une vibration qui sortait d'eux, malgré eux, un souffle
 plus subtil qu'un rayon ou qu'un parfum. Après quelques jours,
 Guillaume, bouleversé, le cœur saignant, ne put douter davantage. Et
@@ -16557,7 +16558,7 @@ mangeraient jusqu'à la fin du mois. Le soleil montait à l'horizon, toute
 la fourmilière était dehors, la journée laborieuse recommençait, avec sa
 dépense continue d'énergie, de courage et de souffrance.
 
-Jamais Pierre n'avait encore éprouva si nettement la sensation du
+Jamais Pierre n'avait encore éprouvé si nettement la sensation du
 travail nécessaire, réparateur et sauveur. Déjà, lors de sa visite à
 l'usine Grandidier, et plus tard, quand lui-même avait senti le besoin
 d'une besogne, il s'était bien dit que la loi du monde devait être là.
@@ -16587,9 +16588,9 @@ II
 Le mariage était pour midi; et, depuis une demi-heure, les invités
 avaient envahi l'église, décorée avec un luxe extraordinaire, ornée de
 plantes vertes, embaumée de fleurs. Au fond, le maître-autel flambait de
-mille cierges, tandis que te grande porte, ouverte à deux battants,
+mille cierges, tandis que la grande porte, ouverte à deux battants,
 laissait voir, dans le clair soleil, le péristyle garni d'arbustes, les
-marches recouvertes d'un large lapis, la foule curieuse, entassée sur la
+marches recouvertes d'un large tapis, la foule curieuse, entassée sur la
 place, et jusque dans la rue Royale.
 
 Dutheil, qui venait encore de trouver trois chaises pour des dames en
@@ -16615,7 +16616,7 @@ président du Conseil. La tranquille bravade de ce dernier, compromis
 naguère dans les affaires du baron, acceptant aujourd'hui d'être le
 témoin de sa fille, ajoutait à son triomphe un éclat d'insolence. Et,
 comme pour passionner davantage encore les curiosités, la bénédiction
-nuptiale devait être donnée par monseigneur. Marina, évêque de
+nuptiale devait être donnée par monseigneur Marina, évêque de
 Persépolis, l'agent de la politique du pape en France, l'apôtre du
 ralliement, de la république conquise au catholicisme.
 
@@ -19392,7 +19393,7 @@ Il ne se permit que cette allusion à leur rupture cruelle, après la
 rencontre qu'il avait faite du jeune prêtre sans soutane, en révolte
 contre l'Eglise. Depuis, il savait son mariage, il n'ignorait pas qu'il
 avait, à jamais, brisé ses derniers liens religieux. Mais, à l'heure
-dernière, cela ne semblait plus compter plus lui, il lui suffisait de
+dernière, cela ne semblait plus compter pour lui, il lui suffisait de
 connaître l'ardent cœur de Pierre, il n'avait besoin que de l'homme,
 qu'il avait vu brûler d'une si belle passion de charité.
 
@@ -19586,7 +19587,7 @@ triste Salvat, dont le crime imbécile les avait tous rassemblés,
 heurtés, dans leur empressement glouton à tirer parti de sa maigre
 carcasse de meurt-de-faim. Et tout cela bouillait dans la cuve colossale
 de Paris, les désirs, les violences, les volontés déchaînées, le mélange
-innomable des ferments les plus acres, d'où sortirait à grands flots
+innommable des ferments les plus acres, d'où sortirait à grands flots
 purs le vin de l'avenir.
 
 Alors, Pierre en eut conscience, de ce prodigieux travail qui
@@ -19726,7 +19727,7 @@ avec ses dogmes et son culte. Certes, le divin semblait nécessaire à
 l'homme comme le pain et l'eau, toujours l'homme s'y était rejeté,
 affamé du mystère, semblant n'avoir d'autre consolation que de
 s'anéantir dans l'inconnu. Mais qui pourrait dire que la science, un
-jour, n'étanchera pas cette soit de l'au-delà? Si elle est la vérité
+jour, n'étanchera pas cette soif de l'au-delà? Si elle est la vérité
 conquise, elle est aussi, et elle sera toujours la vérité à conquérir.
 Devant elle, ne restera-t-il pas sans cesse une marge pour le désir de
 savoir, l'hypothèse qui n'est que de l'idéal? Puis, ce besoin du divin,
@@ -19862,7 +19863,7 @@ avoir réconciliées, de les satisfaire ensemble, de se sentir complet,
 normal et puissant, tel que le grand chêne qui pousse en liberté et dont
 les branches à l'infini dominent la forêt!
 
---Tu as fuit là, continua tendrement Guillaume, une belle et bonne
+--Tu as fait là, continua tendrement Guillaume, une belle et bonne
 œuvre, pour toi, pour nous tous, pour les chers parents, dont les
 ombres apaisées et réunies sont maintenant si tranquilles, dans la
 petite maison de notre enfance. J'y songe souvent, à notre chère maison
